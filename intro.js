@@ -1,3 +1,3 @@
-Console.log("Nicholas Gyemfi")
-Console.log("I am a 26 years old.")
-Console.log("My favorite programming language is JavaScript and python.")
+console.log("Nicholas Gyemfi")
+console.log("I am 26 years old.")
+console.log("My favorite programming language is JavaScript and python.")
